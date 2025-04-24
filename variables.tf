@@ -25,5 +25,5 @@ variable "owner" {
 variable "project" {
   description = "Project name for tagging"
   type        = string
-  default     = "scalr-demo"
+  default     = "scalr2-demo"
 }
